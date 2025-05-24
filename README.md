@@ -1,1 +1,6 @@
-"# Multiples-pantallas-tkinter-python" 
+# Multiples-pantallas-tkinter-python
+
+
+## vista 
+
+![Texto alternativo](img/tabla.png) 
